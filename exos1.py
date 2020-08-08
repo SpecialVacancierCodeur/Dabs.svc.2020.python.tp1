@@ -1,3 +1,4 @@
+# author: Dabs
 from math import* 
 
 print("resolution d'une equation du second degre")
